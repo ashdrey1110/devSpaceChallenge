@@ -1,2 +1,3 @@
 # devSpaceChallenge
-developer challenge for team myssc order66 team
+
+To run this app, cd into client and run 'npm run dev'

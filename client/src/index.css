@@ -1,3 +1,5 @@
+@import url("https://googleapis.com");
+
 :root {
   --text: #6b6375;
   --text-h: #08060d;
@@ -31,16 +33,18 @@
 }
 
 #root {
-  max-width: 100%;
   margin: 0 auto;
   text-align: center;
   min-height: 100svh;
   display: flex;
   align-items: center;
   flex-direction: column;
-  box-sizing: border-box;
 }
 
 body {
   margin: 0;
+  font-family: "NotoSans";
+  font-weight: 100 1500;
+  font-stretch: 62.5% 100%;
+  font-style: normal;
 }
